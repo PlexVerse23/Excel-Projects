@@ -2,6 +2,8 @@
 
 This project is a deep-dive Excel dashboard built on top of a retail dataset with over **8.5K records**, designed to explore trends and generate data-driven decisions using interactive visualizations and key business metrics.
 
+![Full Dashboard](./assets/dashboard.png)
+
 ---
 
 ## 📊 Dataset Overview
@@ -28,27 +30,15 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ## 📌 KPI's Dashboard
 
-| Metric             | Value       |
-|--------------------|-------------|
-| **Total Sales**    | ₹1,201,681.5 |
-| **Average Sale**   | ₹141.0       |
-| **Total Items**    | 8,523        |
-| **Average Rating** | 4.0          |
-
 > ✅ This top-level KPI section gives decision-makers an instant health check of the business.
 
-📸 **[Insert KPI Dashboard Screenshot Here]**
+![KPIs](./assets/kpi.png)
 
 ---
 
 ## 🥩 Total Sales by Fat Content
 
-| Fat Content | Sales     |
-|-------------|-----------|
-| Low Fat     | ₹776.3K   |
-| Regular     | ₹425.4K   |
-
-📸 **[Insert Pie/Donut Chart Screenshot Here]**
+![Alt Text](./assets/sales_by_fat.png)
 
 **🔍 Insights:**
 - **Low Fat items** significantly outsell Regular items.
@@ -58,13 +48,8 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ## 🏪 Sales by Fat Content & Outlet Location Type
 
-| Outlet Tier | Regular Sales | Low Fat Sales |
-|-------------|----------------|----------------|
-| Tier 1      | ₹121.3K        | ₹215.0K        |
-| Tier 2      | ₹138.7K        | ₹254.5K        |
-| Tier 3      | ₹165.3K        | ₹306.8K        |
+![Alt Text](./assets/fate_by_outlet_location.png)
 
-📸 **[Insert Horizontal Bar Chart Screenshot Here]**
 
 **🔍 Insights:**
 - Sales for **Low Fat items** outperform across all tiers.
@@ -74,14 +59,8 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ## 🥫 Total Sales by Item Type
 
-📸 **[Insert Vertical Bar Chart Screenshot Here]**
+![Alt Text](./assets/item_type.png)
 
-| Top-Selling Categories           | Sales     |
-|----------------------------------|-----------|
-| Fruits & Vegetables              | ₹178.1K   |
-| Snack Foods                      | ₹175.4K   |
-| Household                        | ₹136.0K   |
-| Frozen Foods                     | ₹118.6K   |
 
 **🔍 Insights:**
 - **Fresh produce and snacks** dominate.
@@ -91,13 +70,8 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ## 🏢 Sales by Outlet Establishment Year
 
-📸 **[Insert Area or Line Chart Screenshot Here]**
+![Alt Text](./assets/outlet_year.png)
 
-| Year | Total Sales |
-|------|-------------|
-| 2018 | ₹204.5K     |
-| 2012 | ₹130.5K     |
-| 2017 | ₹133.1K     |
 
 **🔍 Insights:**
 - Outlets established in **2018** saw the **highest performance**.
@@ -105,33 +79,13 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ---
 
-## 🧱 Sales by Outlet Size
+## 🧱 Sales by Outlet Size & Location Type
 
-| Outlet Size | Total Sales |
-|-------------|-------------|
-| Medium      | ₹507.9K     |
-| Small       | ₹444.8K     |
-| High        | ₹249.0K     |
-
-📸 **[Insert Doughnut/Column Chart Screenshot Here]**
+![Alt Text](./assets/outlet_size_loc.png)
 
 **🔍 Insights:**
 - **Medium-sized outlets** perform best.
 - They might balance cost-efficiency with enough product range.
-
----
-
-## 🌍 Sales by Outlet Location Type
-
-| Location Tier | Total Sales |
-|---------------|-------------|
-| Tier 3        | ₹472.1K     |
-| Tier 2        | ₹393.2K     |
-| Tier 1        | ₹336.4K     |
-
-📸 **[Insert Tier-wise Bar Chart Screenshot Here]**
-
-**🔍 Insights:**
 - Tier 3 locations show higher sales—likely due to lower competition or rising demand in semi-urban markets.
 
 ---
@@ -162,7 +116,6 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 | Supermarket Type1   | 5,577     |
 | Grocery Store       | 1,083     |
 
-📸 **[Insert Metrics Table Screenshot Here]**
 
 **🔍 Insights:**
 - **Supermarket Type1** is the leading format in both revenue and volume.
@@ -180,14 +133,9 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ## 📂 Project Files
 
-- 📄 `Blinkit_Dashboard.xlsx` - Main dashboard file with slicers and visuals.
-- 📁 `/assets/` - All chart screenshots and visual elements.
+- 📄 [Full Dashboard](./Blinkit20%Analysis20%Dashboard.xslx)
+ - Main dashboard file with slicers and visuals.
 
 ---
 
-## 🙌 Let's Connect
-
-If you're a data enthusiast, Excel wizard, or hiring for a data-driven role — feel free to [reach out](#)!
-
----
 
