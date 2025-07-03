@@ -41,7 +41,7 @@ One of the key findings was the **clear salary advantage** for candidates with s
 
 ---
 
-### 📎 [Check out full project here](./Data20%Jobs20%Salary20%Analysis20%-20%1/README.md)
+### 📎 [Check out full project here](./Data%20Jobs%20Salary%20Analysis%20-%201/README.md)
 
 ---
 
@@ -68,7 +68,7 @@ From **fat content sales patterns** to outlet performance by region and size, th
 
 ---
 
-### 📎 [Check out full project here]((./Blinkit20%Analysis20%Project20%-20%2/README.md)
+### 📎 [Check out full project here](./Blinkit%20Analysis%20Project%20-%202/README.md)
 
 ---
 
