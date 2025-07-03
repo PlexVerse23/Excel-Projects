@@ -41,7 +41,7 @@ One of the key findings was the **clear salary advantage** for candidates with s
 
 ---
 
-### 📎 [Check out full project here](Data20%Jobs20%Salary20%Analysis20%-20%1)
+### 📎 [Check out full project here](./Data20%Jobs20%Salary20%Analysis20%-20%1/README.md)
 
 ---
 
@@ -53,9 +53,7 @@ This project uses retail data from a Blinkit-like grocery platform to create a v
 
 ### 📊 Dashboard Preview
 
-<div align="center">
-  <img src="Blinkit20%Analysis20%Project20%-20%2/assets/dashboard.png" alt="Blinkit Dashboard Preview" width="600">
-</div>
+![Blinkit Dashboard](./Blinkit%20Analysis%20Project%20-%202/assets/dashboard.png)
 
 From **fat content sales patterns** to outlet performance by region and size, the dashboard empowers business users to filter data, compare trends, and extract actionable insights — all in Excel.
 
@@ -70,7 +68,7 @@ From **fat content sales patterns** to outlet performance by region and size, th
 
 ---
 
-### 📎 [Check out full project here](Blinkit20%Analysis20%Project20%-20%2)
+### 📎 [Check out full project here]((./Blinkit20%Analysis20%Project20%-20%2/README.md)
 
 ---
 
