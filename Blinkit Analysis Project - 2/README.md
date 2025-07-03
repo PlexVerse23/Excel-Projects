@@ -17,6 +17,20 @@ This project is a deep-dive Excel dashboard built on top of a retail dataset wit
 
 ---
 
+## 🎯 Insights Targeted
+
+This project focuses on extracting business-critical insights from the Blinkit dataset to support retail decision-making. Key questions explored include:
+
+- 🥫 Which **item types** generate the highest total sales?
+- 🧈 How does **fat content** influence purchasing patterns?
+- 🏬 What is the relationship between **outlet location/type** and sales performance?
+- 📈 How do **outlet size** and **establishment year** impact overall revenue?
+- 🌍 Which **regions (Tier 1/2/3)** drive the most sales volume?
+
+These insights help identify profitable product categories, optimal store formats, and market trends that can guide strategic decisions.
+
+---
+
 ## 🛠️ Tools & Skills Used
 
 - Data Cleaning
