@@ -1,12 +1,12 @@
 
-# 📈 Excel Projects Portfolio
+# Excel Projects Portfolio
 
 Welcome to my personal Excel project portfolio!  
 This repository showcases real-world business analysis and dashboarding projects, built entirely using Microsoft Excel. Each project aims to solve practical data problems through visualization, analysis, and interactive dashboards that support data-driven decisions.
 
 ---
 
-## 🗂️ Projects Listed
+## Projects Listed
 
 Below are some of the Excel-based projects I’ve worked on. Each one leverages Excel's core analytics tools — including PivotTables, Power Query, Power Pivot, and custom dashboards — to generate insights and visual stories from raw data.
 
@@ -21,7 +21,7 @@ This project is divided into two parts — in the first part, I created an inter
 
 ---
 
-### 📊 Sample Insight
+### Sample Insight
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4cff3c4b-22aa-4406-ba65-02ab9ddad528" alt="Top Paying Roles and Skills" width="600">
@@ -31,7 +31,7 @@ One of the key findings was the **clear salary advantage** for candidates with s
 
 ---
 
-### 🛠️ Techniques & Tools Used  
+### Techniques & Tools Used  
 - Power Query for data transformation  
 - PivotTables & PivotCharts  
 - DAX Measures using Power Pivot  
@@ -41,7 +41,7 @@ One of the key findings was the **clear salary advantage** for candidates with s
 
 ---
 
-### 📎 [Check out full project here](./Data%20Jobs%20Salary%20Analysis%20-%201/README.md)
+###  [Check out full project here](./Data%20Jobs%20Salary%20Analysis%20-%201/README.md)
 
 ---
 
@@ -51,7 +51,7 @@ This project uses retail data from a Blinkit-like grocery platform to create a v
 
 ---
 
-### 📊 Dashboard Preview
+### Dashboard Preview
 
 ![Blinkit Dashboard](./Blinkit%20Analysis%20Project%20-%202/assets/dashboard.png)
 
@@ -59,7 +59,7 @@ From **fat content sales patterns** to outlet performance by region and size, th
 
 ---
 
-### 🛠️ Techniques & Tools Used  
+### Techniques & Tools Used  
 - PivotTables & Charts for dynamic summaries  
 - Power Query for cleaning and shaping the dataset  
 - Custom dashboard design with interactive filters  
@@ -68,9 +68,9 @@ From **fat content sales patterns** to outlet performance by region and size, th
 
 ---
 
-### 📎 [Check out full project here](./Blinkit%20Analysis%20Project%20-%202/README.md)
+### [Check out full project here](./Blinkit%20Analysis%20Project%20-%202/README.md)
 
 ---
 
-More Excel projects coming soon — stay tuned for updates 🚀
+More Excel projects coming soon.
 
